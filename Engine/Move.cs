@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Engine.Models
+namespace Engine
 {
     /// <summary>
     /// The model for a move in the game. 

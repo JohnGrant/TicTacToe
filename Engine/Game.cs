@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Engine.Models
+namespace Engine
 {
     /// <summary>
     /// This is the game engine class which tracks the state of play. 

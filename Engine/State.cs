@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Engine.Models
+namespace Engine
 {
     /// <summary>
     /// The different states the game may be in: X's Move, O's Move, X Wins, O Wins, or Draw.
