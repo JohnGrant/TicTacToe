@@ -2,6 +2,8 @@
 
 This is a simple tic-tac-toe engine with a simple game implementation written in a few hours.
 
+[![Build Status](https://isigma.visualstudio.com/JMG.TicTacToe/_apis/build/status/JohnGrant.TicTacToe)](https://isigma.visualstudio.com/JMG.TicTacToe/_build/latest?definitionId=1)
+
 # Build
 
 The engine was coded and built against the .Net Framework 4.6.1
